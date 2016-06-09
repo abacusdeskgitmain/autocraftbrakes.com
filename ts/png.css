@@ -1,0 +1,28 @@
+IMG {BEHAVIOR: url("ts/pngbehavior.htc")}
+
+.tc{background: none; filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='ts/tc.png', sizingMethod='scale');}
+.bc{background: none; filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='ts/bc.png', sizingMethod='scale');}
+.cr{background: none; filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='ts/cr.png', sizingMethod='crop');}
+.cl{background: none; filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='ts/cl.png', sizingMethod='crop');}
+
+.sho{background: none; filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='ts/sho.png', sizingMethod='image');}
+.sho a{position:relative;}
+.sho .m .im{background: none; filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='ts/soimg.png', sizingMethod='crop');}
+.sho .m .im img{position:relative;}
+
+.video{background: none; filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='ts/video.png', sizingMethod='crop');}
+
+.hhot{background: none; filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='ts/hhot.png', sizingMethod='size');height:23px;}
+.hhott{background: none; filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='ts/hhott.png', sizingMethod='size');height:23px;}
+
+.hnew1{background: none; filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='ts/hnew.png', sizingMethod='size');height:23px;}
+.hbot{background: none; filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='ts/hbot.png', sizingMethod='size');width:242px;}
+
+.go{background: none; filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='ts/go.png', sizingMethod='size');width:35px;}
+.go input{position:relative;}
+
+.tbc{background: none; filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='ts/tbc.png', sizingMethod='scale');height:110px;}
+
+.bfram{background: none; filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='ts/bfram.png', sizingMethod='image');height:268px;width:240px;}
+
+.sec-open {background: none; filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='ts/bg_popup.png', sizingMethod='scale'); width:100%;}

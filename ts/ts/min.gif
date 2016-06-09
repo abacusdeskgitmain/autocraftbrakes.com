@@ -1,0 +1,272 @@
+<!DOCTYPE HTML PUBLIC "-//SoftQuad//DTD HoTMetaL PRO 4.0::19971010::extensions to HTML 4.0//EN"
+ "hmpro4.dtd">
+
+<HTML>
+  
+  <HEAD>
+    <TITLE>IndiaMART: Page not found</TITLE>
+    <LINK HREF="/gl-include/im-notfound/dir-new.css" REL="STYLESHEET">
+
+<SCRIPT LANGUAGE="JAVASCRIPT" SRC="/gl-include/im-notfound/check.js"></SCRIPT>
+  </HEAD>
+  
+  <BODY LEFTMARGIN="0" TOPMARGIN="0" MARGINHEIGHT="0" MARGINWIDTH="0" 
+  BGCOLOR="#ffffff">
+    <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+      <TR>
+        <TD WIDTH="214" ROWSPAN="2" VALIGN="BOTTOM"><A HREF="http://www.indiamart.com/"><IMG SRC="/gl-include/im-notfound/imlogo-250x60.gif" ALT="IndiaMART - Source > Supply > Grow" BORDER="0" WIDTH="250" HEIGHT="60"></A></TD>
+        <TD VALIGN="TOP">
+        <DIV ALIGN="RIGHT" CLASS="link"><IMG SRC="/gl-include/im-notfound/zero.gif" WIDTH="1" HEIGHT="7"><BR>
+        
+
+<SCRIPT LANGUAGE="JavaScript" SRC="/gl-include/im-notfound/glusr-header.js"></SCRIPT>
+        
+        <NOSCRIPT><A HREF="http://www.indiamart.com/" TARGET="_top">IndiaMART
+          Home</A>&nbsp;&nbsp;-&nbsp;&nbsp;<A HREF="/cgi/glusr.mp?login=true&modid=DIR&redirect=/" TARGET="_top">Sign
+          In</A> &nbsp;/&nbsp;<A HREF="/cgi/glusr.mp?logoff=true&modid=DIR&redirect=/signout.html?redirect=/" TARGET="_top">Sign
+          Out</A> &nbsp;&nbsp;-&nbsp;&nbsp;<A HREF="http://my.indiamart.com/cgi/glusr-reg1.mp?action=newreg1&modid=MY&redirect=/" TARGET="_top">Join
+          Free</A>&nbsp;&nbsp;-&nbsp;&nbsp;<A HREF="http://my.indiamart.com/" TARGET="_top">My
+          Profile</A> &nbsp;&nbsp;-&nbsp;&nbsp;
+        <A HREF="http://www.indiamart.com/help/" TARGET="_top">Help</A>&nbsp;&nbsp;</NOSCRIPT>
+        <IMG SRC="/gl-include/im-notfound/zero.gif" WIDTH="1" HEIGHT="8"></DIV></TD>
+      </TR>
+      <TR>
+        <TD VALIGN="BOTTOM" ALIGN="LEFT">
+        <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+          <TR>
+            <TD WIDTH="7"><IMG SRC="/gl-include/im-notfound/nav-l.gif" WIDTH="7" HEIGHT="32"></TD>
+            <TD ALIGN="CENTER" BACKGROUND="/gl-include/im-notfound/nav-bg.gif" 
+            WIDTH="19%">
+            <DIV CLASS="linwht"><A HREF="http://dir.indiamart.com/">Companies</A></DIV></TD>
+            <TD ALIGN="CENTER" WIDTH="14"><IMG SRC="/gl-include/im-notfound/nav-m.gif" WIDTH="14" HEIGHT="32"></TD>
+            <TD ALIGN="CENTER" BACKGROUND="/gl-include/im-notfound/nav-bg.gif" 
+            WIDTH="15%">
+            <DIV CLASS="linwht"><A HREF="http://catalogs.indiamart.com/">Products</A></DIV></TD>
+            <TD ALIGN="CENTER" WIDTH="16" 
+            BACKGROUND="/gl-include/im-notfound/tl-bg.gif"><IMG SRC="/gl-include/im-notfound/nav-m.gif" WIDTH="14" HEIGHT="32"></TD>
+            <TD ALIGN="CENTER" BACKGROUND="/gl-include/im-notfound/nav-bg.gif" 
+            WIDTH="17%">
+            <DIV CLASS="linwht"><A HREF="http://trade.indiamart.com/">Trade
+              Leads</A></DIV></TD>
+            <TD ALIGN="CENTER" WIDTH="15"><IMG SRC="/gl-include/im-notfound/nav-m.gif" WIDTH="14" HEIGHT="32"></TD>
+            <TD ALIGN="CENTER" BACKGROUND="/gl-include/im-notfound/nav-bg.gif" 
+            WIDTH="12%">
+            <DIV CLASS="linwht"><A HREF="http://tenders.indiamart.com/">Tenders</A></DIV></TD>
+            <TD ALIGN="CENTER" WIDTH="14"><IMG SRC="/gl-include/im-notfound/nav-m.gif" WIDTH="14" HEIGHT="32"></TD>
+            <TD ALIGN="CENTER" BACKGROUND="/gl-include/im-notfound/nav-bg.gif" 
+            WIDTH="16%">
+            <DIV CLASS="linwht"><A HREF="http://www.biztradeshows.com/">Trade
+              Shows</A></DIV></TD>
+            <TD ALIGN="CENTER" WIDTH="14"><IMG SRC="/gl-include/im-notfound/nav-m.gif" WIDTH="14" HEIGHT="32"></TD>
+            <TD ALIGN="CENTER" BACKGROUND="/gl-include/im-notfound/nav-bg.gif" 
+            WIDTH="13%">
+            <DIV CLASS="linwht"><A HREF="http://www.indiantravelportal.com/">Travel</A></DIV></TD>
+            <TD ALIGN="CENTER" WIDTH="7"><IMG SRC="/gl-include/im-notfound/nav-r.gif" WIDTH="7" HEIGHT="32"></TD>
+          </TR>
+        </TABLE></TD>
+      </TR>
+    </TABLE>
+    <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+      <TR>
+        <TD BGCOLOR="#0096FB" BACKGROUND="/gl-include/im-notfound/subnavbg.gif"><IMG SRC="/gl-include/im-notfound/zero.gif" WIDTH="1" HEIGHT="4" ALIGN="LEFT">
+        </TD>
+      </TR>
+    </TABLE>
+    <FORM STYLE="margin:0px;" NAME="searchForm" 
+    ONSUBMIT="return CheckDataSearch(document.searchForm);" METHOD="GET">
+    <TABLE WIDTH="100%" BORDER="0" CELLPADDING="6" BORDERCOLOR="#E8E8E8" 
+    CELLSPACING="0">
+      <TR>
+        <TD ALIGN="CENTER" BGCOLOR="#E8E8E8" 
+        BACKGROUND="/gl-include/im-notfound/srch-bg.gif" HEIGHT="46">
+        <TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0">
+          <TR>
+            <TD CLASS="search"><B>SEARCH</B>&nbsp;&nbsp;</TD>
+            <TD><INPUT TYPE="TEXT" NAME="ss" SIZE="40" VALUE="">
+            <SELECT NAME="searchfor" SIZE="1">
+            <OPTION VALUE="comp" SELECTED="SELECTED">Companies</OPTION>
+            <OPTION VALUE="product">Products</OPTION>
+            <OPTION VALUE="offer">Trade Offers</OPTION>
+            <OPTION VALUE="tenders">Tenders</OPTION></SELECT>
+            <INPUT TYPE="hidden" NAME="search" VALUE=""> <INPUT TYPE="hidden" NAME="modid" VALUE="">
+            <INPUT TYPE="hidden" NAME="cr" VALUE=""> <INPUT TYPE="hidden" NAME="sr" VALUE="">
+            </TD>
+            <TD>&nbsp;&nbsp;<INPUT TYPE="SUBMIT" VALUE="Search"></TD>
+          </TR>
+        </TABLE></TD>
+      </TR>
+    </TABLE></FORM>
+    <DIV><BR>
+    </DIV>
+    <TABLE BORDER="0" WIDTH="600" ALIGN="CENTER">
+      <TR>
+        <TD VALIGN="TOP">
+        <TABLE WIDTH="100%" BORDER="1" STYLE="border-collapse:collapse;" BORDERCOLOR="#86CDFD" CELLPADDING="3" CELLSPACING="0" ALIGN="CENTER">
+          <TR>
+            <TD BGCOLOR="#E1F0FF" CLASS="helptext" HEIGHT="26"><IMG SRC="/gl-include/im-notfound/help1.gif" WIDTH="33" HEIGHT="22" ALIGN="ABSMIDDLE"><B STYLE="font-size:15px;">Sorry,
+            the page you requested was not found.</B></TD>
+          </TR>
+        </TABLE>
+        <DIV CLASS="helptext">
+        <FORM NAME="searchForm1" ONSUBMIT="return CheckDataSearch(document.searchForm1);" METHOD="POST">
+        <UL STYLE="line-height:25px;">
+          <LI>Please check the URL for proper spelling and capitalization</LI>
+          <LI> If you are having trouble locating a destination on IndiaMART,
+            try visiting the <A HREF="http://www.indiamart.com/">IndiaMART home
+              page</A>.</LI>
+          <LI>
+            <DIV CLASS="helptext" STYLE="padding-bottom:10px;"><B>If you are
+            looking for a product or trade offer try searching below.</B></DIV>
+            <TABLE BORDER="1" CELLPADDING="4" CELLSPACING="0" BGCOLOR="#EFF8FF" BORDERCOLOR="#C2E6FE" STYLE="border-collapse:collapse;">
+              <TR>
+                <TD ALIGN="LEFT" HEIGHT="40">
+                <TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0">
+                  <TR>
+                    <TD CLASS="search"></TD>
+                    <TD><INPUT TYPE="TEXT" NAME="ss" SIZE="40" VALUE="">
+                    <SELECT NAME="searchfor" SIZE="1">
+                    <OPTION VALUE="comp" SELECTED="SELECTED">Companies</OPTION>
+                    <OPTION VALUE="product">Products</OPTION>
+                    <OPTION VALUE="offer">Trade Offers</OPTION>
+                    <OPTION VALUE="tenders">Tenders</OPTION></SELECT>
+                    <INPUT TYPE="hidden" NAME="search" VALUE="">
+                    <INPUT TYPE="hidden" NAME="modid" VALUE="">
+                    <INPUT TYPE="hidden" NAME="cr" VALUE="">
+                    <INPUT TYPE="hidden" NAME="sr" VALUE=""> </TD>
+                    <TD>&nbsp;&nbsp;<INPUT TYPE="SUBMIT" VALUE="Search"></TD>
+                  </TR>
+                </TABLE></TD>
+              </TR>
+            </TABLE></LI>
+        </UL></FORM> <BR>
+        </DIV> </TD>
+      </TR>
+    </TABLE>
+    <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0" 
+    BGCOLOR="#89C4EE">
+      <TR>
+        <TD BACKGROUND="/gl-include/im-notfound/im-ft-bg.gif" 
+        STYLE="background-repeat:no-repeat;">
+        <DIV STYLE="margin-left:16px; margin-top:1px;"><A HREF="http://www.indiamart.com/"><IMG SRC="/gl-include/im-notfound/im-network.gif" ALT="IndiaMART" WIDTH="166" HEIGHT="27" BORDER="0"></A></DIV></TD>
+        <TD ALIGN="RIGHT" WIDTH="9"><IMG SRC="/gl-include/im-notfound/tarc-r.gif" WIDTH="9" HEIGHT="33"></TD>
+      </TR>
+    </TABLE>
+    <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+      <TR>
+        <TD WIDTH="16" BACKGROUND="/gl-include/im-notfound/sublnkbg.gif"><IMG SRC="/gl-include/im-notfound/arc.gif" WIDTH="16" HEIGHT="23"></TD>
+        <TD BACKGROUND="/gl-include/im-notfound/sublnkbg.gif"><IMG SRC="/gl-include/im-notfound/linkdiv.gif" WIDTH="4" HEIGHT="23" ALIGN="RIGHT" HSPACE="5">
+        <DIV CLASS="newfoothead"><A HREF="http://www.indiamart.com/">Business
+          Marketplace</A></DIV></TD>
+        <TD BACKGROUND="/gl-include/im-notfound/sublnkbg.gif">
+        <DIV CLASS="newfoothead">Industry Portals</DIV></TD>
+        <TD BACKGROUND="/gl-include/im-notfound/sublnkbg.gif"><IMG SRC="/gl-include/im-notfound/linkdiv.gif" WIDTH="4" HEIGHT="23" HSPACE="3"></TD>
+        <TD BACKGROUND="/gl-include/im-notfound/sublnkbg.gif"><IMG SRC="/gl-include/im-notfound/linkdiv.gif" WIDTH="4" HEIGHT="23" ALIGN="RIGHT" HSPACE="5">
+        <DIV CLASS="newfoothead"><A HREF="http://www.indiantravelportal.com/" TARGET="_new">Travel
+          to India</A></DIV></TD>
+        <TD BACKGROUND="/gl-include/im-notfound/sublnkbg.gif"><IMG SRC="/gl-include/im-notfound/zero.gif" WIDTH="4" HEIGHT="23" ALIGN="RIGHT" HSPACE="0">
+        <DIV CLASS="newfoothead"><A HREF="http://www.indiangiftsportal.com/" TARGET="_new">Gifts
+          Shopping</A></DIV></TD>
+        <TD BACKGROUND="/gl-include/im-notfound/sublnkbg.gif" ALIGN="RIGHT" 
+        WIDTH="17"><IMG SRC="/gl-include/im-notfound/arc1.gif" WIDTH="17" HEIGHT="23"></TD>
+      </TR>
+      <TR>
+        <TD WIDTH="16" BGCOLOR="#F4FAFF" 
+        BACKGROUND="/gl-include/im-notfound/sublnkl.gif" VALIGN="TOP"><IMG SRC="/gl-include/im-notfound/sublnkl.gif" WIDTH="16" HEIGHT="17"></TD>
+        <TD BGCOLOR="#F4FAFF" VALIGN="TOP"><IMG SRC="/gl-include/im-notfound/slinkdiv.gif" WIDTH="3" HEIGHT="101" ALIGN="RIGHT" HSPACE="5">
+        <DIV CLASS="newfootlink"><A HREF="http://catalogs.indiamart.com/">Products
+          Directory</A><BR>
+        <A HREF="http://trade.indiamart.com/">Export Import Trade Leads</A><BR>
+        <A HREF="http://dir.indiamart.com/indianexporters/">Indian Exporters</A><BR>
+        <A HREF="http://tenders.indiamart.com/">Indian Tenders</A><BR>
+        <A HREF="http://dir.indiamart.com/">Business Directory</A><BR>
+        <A HREF="http://www.biztradeshows.com/">Trade Fairs</A></DIV></TD>
+        <TD BGCOLOR="#F4FAFF" VALIGN="TOP">
+        <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+          <TR>
+            <TD CLASS="newfootlink" VALIGN="TOP"><A HREF="http://www.ayurveda-herbal-remedy.com/">Ayurveda</A>
+            &amp; <A HREF="http://www.ayurveda-herbal-remedy.com/">Herbal</A><BR>
+            <A HREF="http://handicraft.indiamart.com/">Handicraft</A><BR>
+            <A HREF="http://apparel.indiamart.com/">Apparel</A> &amp;
+            <A HREF="http://apparel.indiamart.com/">Textile</A><BR>
+            <A HREF="http://www.indianplasticportal.com/">Plastic</A><BR>
+            <A HREF="http://www.indianchemicalportal.com/">Chemical</A><BR>
+            <A HREF="http://health.indiamart.com/">Health</A> </TD>
+            <TD CLASS="newfootlink" VALIGN="TOP"><A HREF="http://auto.indiamart.com/">Automobile</A><BR>
+            <A HREF="http://www.indianleatherportal.com/">Leather</A><BR>
+            <A HREF="http://www.agriculture-industry-india.com/">Agriculture</A><BR>
+            <A HREF="http://www.jute-industry.com/">Jute</A><BR>
+            <A HREF="http://finance.indiamart.com/">Finance</A> &amp;
+            <A HREF="http://finance.indiamart.com/">Investment</A><BR>
+            <A HREF="http://news.indiamart.com/">Business News</A></TD>
+            <TD CLASS="newfootlink" VALIGN="TOP"><A HREF="http://exim.indiamart.com/">Export
+              Import Guide</A><BR>
+            <A HREF="http://www.biztradeshows.com/">Trade Shows</A><BR>
+            <A HREF="http://trade.indiamart.com/">Trade Leads</A> </TD>
+          </TR>
+        </TABLE></TD>
+        <TD BGCOLOR="#F4FAFF" VALIGN="TOP"><IMG SRC="/gl-include/im-notfound/slinkdiv.gif" HEIGHT="101" WIDTH="3" HSPACE="3"></TD>
+        <TD BGCOLOR="#F4FAFF" VALIGN="TOP"><IMG SRC="/gl-include/im-notfound/slinkdiv.gif" WIDTH="3" HEIGHT="101" ALIGN="RIGHT" HSPACE="5">
+        <DIV CLASS="newfootlink"><A HREF="http://www.indiantravelportal.com/" TARGET="_new">India
+          Tourism</A><BR>
+        <A HREF="http://taj-mahal.indiantravelportal.com/" TARGET="_new">Taj
+          Mahal</A><BR>
+        <A HREF="http://travel-package.indiantravelportal.com/" TARGET="_new">Travel
+          Package</A><BR>
+        <A HREF="http://tours.indiantravelportal.com/" TARGET="_new">India
+          Tours</A><BR>
+        <A HREF="http://hotels.indiantravelportal.com/" TARGET="_new">Hotels in
+          India</A><BR>
+        <A HREF="http://travel-agents.indiantravelportal.com/" TARGET="_new">Indian
+          Travel Agents</A></DIV></TD>
+        <TD BGCOLOR="#F4FAFF" VALIGN="TOP">
+        <DIV CLASS="newfootlink"><A HREF="http://www.indiangiftsportal.com/india-shopping/occasions/birthday-gifts/" TARGET="_new">Birthday
+          Gifts</A><BR>
+        <A HREF="http://www.indiangiftsportal.com/india-shopping/occasions/anniversary-gifts/" TARGET="_new">Anniversary
+          Gifts</A><BR>
+        <A HREF="http://www.indiangiftsportal.com/india-shopping/occasions/wedding-gifts/" TARGET="_new">Wedding
+          Gifts</A><BR>
+        <A HREF="http://www.indiangiftsportal.com/india-shopping/occasions/housewarming-gifts/" TARGET="_new">Housewarming
+          Gifts</A><BR>
+        <A HREF="http://www.indiangiftsportal.com/india-shopping/occasions/congratulations-gifts/" TARGET="_new">Congratulations
+          Gifts</A><BR>
+        <A HREF="http://www.indiangiftsportal.com/india-shopping/all-time-favourites/fresh-flowers/" TARGET="_new">Send
+          Flowers</A></DIV></TD>
+        <TD ALIGN="RIGHT" WIDTH="17" 
+        BACKGROUND="/gl-include/im-notfound/sublnkr.gif" BGCOLOR="#F4FAFF" 
+        VALIGN="TOP"><IMG SRC="/gl-include/im-notfound/sublnkr.gif" WIDTH="17" HEIGHT="17"></TD>
+      </TR>
+      <TR>
+        <TD WIDTH="16" BGCOLOR="#F4FAFF" 
+        BACKGROUND="/gl-include/im-notfound/foot-fbg.gif"><IMG SRC="/gl-include/im-notfound/foot-fl.gif" HSPACE="0" WIDTH="16" HEIGHT="14"></TD>
+        <TD BGCOLOR="#F4FAFF" BACKGROUND="/gl-include/im-notfound/foot-fbg.gif"><IMG SRC="/gl-include/im-notfound/extfootline.gif" WIDTH="3" HEIGHT="14" ALIGN="RIGHT" HSPACE="5"></TD>
+        <TD BGCOLOR="#F4FAFF" BACKGROUND="/gl-include/im-notfound/foot-fbg.gif"></TD>
+        <TD BGCOLOR="#F4FAFF" BACKGROUND="/gl-include/im-notfound/foot-fbg.gif"><IMG SRC="/gl-include/im-notfound/extfootline.gif" WIDTH="3" HEIGHT="14" HSPACE="3"></TD>
+        <TD BGCOLOR="#F4FAFF" BACKGROUND="/gl-include/im-notfound/foot-fbg.gif"><IMG SRC="/gl-include/im-notfound/extfootline.gif" WIDTH="3" HEIGHT="14" ALIGN="RIGHT" HSPACE="5"></TD>
+        <TD BGCOLOR="#F4FAFF" BACKGROUND="/gl-include/im-notfound/foot-fbg.gif"><IMG SRC="/gl-include/im-notfound/zero.gif" WIDTH="1" HEIGHT="1" ALIGN="RIGHT" HSPACE="0"></TD>
+        <TD ALIGN="RIGHT" WIDTH="17" 
+        BACKGROUND="/gl-include/im-notfound/foot-fbg.gif" BGCOLOR="#F4FAFF"><IMG SRC="/gl-include/im-notfound/foot-fr.gif" HSPACE="0" WIDTH="17" HEIGHT="14"></TD>
+      </TR>
+    </TABLE>
+    <TABLE BORDER="0" WIDTH="100%">
+      <TR>
+        <TD ALIGN="CENTER" HEIGHT="15" CLASS="newfooter-lnk">
+        <DIV><A HREF="http://www.intermesh.net/">About Us</A>&nbsp; | &nbsp;<A HREF="http://www.indiamart.com/press-section/">Press
+          Room</A>&nbsp; | &nbsp;<A HREF="http://www.indiamart.com/press-section/award.html">Awards</A>&nbsp;
+        | &nbsp;<A HREF="http://www.indiamart.com/press-section/commendations.html">Commendations</A>&nbsp;
+        | &nbsp;<A HREF="http://www.indiamart.com/success-stories/">Success
+          Stories</A>&nbsp; | &nbsp;<A HREF="http://www.intermesh.net/reachus.html">Contact
+          Us</A>&nbsp; | &nbsp;<A HREF="http://www.indiamart.com/terms-of-use.html">Terms
+          of Use</A>&nbsp; | &nbsp;<A HREF="http://www.indiamart.com/privacy-policy.html">Privacy
+          Policy</A>&nbsp; | &nbsp;<A HREF="http://www.indiamart.com/feedback.html">Feedback</A>&nbsp;
+        | &nbsp;<A HREF="http://www.indiamart.com/help/">Help</A></DIV></TD>
+      </TR>
+    </TABLE>
+    <TABLE BORDER="0" WIDTH="100%">
+      <TR>
+        <TD ALIGN="CENTER" HEIGHT="15" CLASS="newfooter-lnk" COLSPAN="2">Copyright<FONT SIZE="-1">
+        &copy;</FONT>&nbsp;<A HREF="http://www.intermesh.net/">IndiaMART
+          InterMESH Limited</A></TD>
+      </TR>
+    </TABLE>
+  </BODY>
+</HTML>
